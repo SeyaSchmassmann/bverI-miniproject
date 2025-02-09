@@ -1,0 +1,13 @@
+Dataset,Distribution Type,Resolution,Count
+Train,Image Resolution,"(640, 480)",975
+Train,Image Resolution,"(960, 540)",104
+Train,Image Resolution,"(640, 360)",15
+Train,Image Resolution,"(800, 600)",8
+Train,Image Resolution,"(416, 416)",4
+Train,Image Resolution,"(1280, 720)",47
+Train,Image Resolution,"(1906, 1080)",11
+Train,Image Resolution,"(480, 448)",9
+Train,Image Resolution,"(1152, 720)",6
+Train,Image Resolution,"(590, 430)",31
+Train,Image Resolution,"(910, 490)",6
+Train,Image Resolution,"(584, 480)",4

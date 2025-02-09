@@ -1,0 +1,9 @@
+Dataset,Distribution Type,Resolution,Count
+Test,Image Resolution,"(640, 480)",92
+Test,Image Resolution,"(1906, 1080)",1
+Test,Image Resolution,"(1280, 720)",3
+Test,Image Resolution,"(960, 540)",9
+Test,Image Resolution,"(640, 360)",1
+Test,Image Resolution,"(1152, 720)",1
+Test,Image Resolution,"(480, 448)",2
+Test,Image Resolution,"(416, 416)",1

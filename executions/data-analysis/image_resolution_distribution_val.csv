@@ -1,0 +1,11 @@
+Dataset,Distribution Type,Resolution,Count
+Validation,Image Resolution,"(640, 480)",262
+Validation,Image Resolution,"(1280, 720)",7
+Validation,Image Resolution,"(960, 540)",17
+Validation,Image Resolution,"(640, 360)",1
+Validation,Image Resolution,"(480, 448)",5
+Validation,Image Resolution,"(800, 600)",5
+Validation,Image Resolution,"(1906, 1080)",5
+Validation,Image Resolution,"(584, 480)",1
+Validation,Image Resolution,"(1280, 960)",1
+Validation,Image Resolution,"(1152, 720)",1
